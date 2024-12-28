@@ -1,0 +1,40 @@
+Inheritance is known as ISA relationship.
+:its also called as blood relation where one class access all the properties and methods of another class.
+:classes are tightly coupled
+:extend keyword is used
+advantages of inheritance is---
+1)code reusability
+2)cost cutting
+3)reduce redundancy
+-------------------------------------------------------------------------------------------------------------
+HAS_A relation is known as association relation.
+:it can be achieved using new keyword
+:creating object of one class as an member of another class
+:extend keyword is not used
+:all the properties are not extended
+:classes are not tightly coupled
+
+types of association:-
+1)aggregation
+2)composition
+
+# Aggregation has a weak bonding between two classes
+for example car class and music player classes has HAS-a relation but both are independent without each other
+both the classes are loosely coupled
+
+# Composition= strong bonding between two classes in known as composition
+for example car class and engine class has HAS-A relation and are dependent one each other
+both the classes are tightly coupled
+
+Example------------------------------------------------------------------------------------------------------------
+package Myjava;
+
+public class Has_A_Example {
+    Single_inheritance x=new Single_inheritance();
+
+    public static void main(String[] args) {
+        Has_A_Example n=new Has_A_Example();
+        int v=n.x.cube(2);
+        System.out.println(v);
+    }
+}

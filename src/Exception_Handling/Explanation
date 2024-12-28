@@ -1,0 +1,39 @@
+                                                   Exception in JAVA
+
+  *exception is an event that occurs during time of execution of program and interrupts the normal flow of execution of
+   program....
+
+  *exception can be occurred due to three types of errors:-
+  (i)Syntax error
+  (ii)Logical error
+  (iii)Runtime error
+
+  **Exception Handling is method to handle the run time exception occurred during execution of program such as
+   ArrayIndexOutOfBound,FileNotFound,Arithmetic,SQLExceptions etc......
+
+  types of Exception:-
+
+  1. Checked Exceptions
+  Checked exceptions are the exceptions that are checked at compile-time.
+  This means that the compiler verifies that thecode handles these exceptions either by catching them or declaring them
+  in the method signature using the throws keyword.
+
+  **IOException:An exception is thrown when an input/output operation fails,such as when reading from or writing to a file.
+
+  **SQLException: It is thrown when an error occurs while accessing a database.
+
+  **ParseException: Indicates a problem while parsing a string into another data type, such as parsing a date.
+
+  **ClassNotFoundException: It is thrown when an application tries to load a class through its string name using methods
+    like Class.forName(), but the class with the specified name cannot be found in the classpath.
+
+
+  2. Unchecked Exceptions (Runtime Exceptions)
+  Unchecked exceptions, also known as runtime exceptions, are not checked at compile-time.
+  These exceptions usually occur due to programming errors, such as logic errors or incorrect assumptions in the code.
+
+ ** NullPointerException: It is thrown when trying to access or call a method on an object reference that is null.
+
+ ** ArrayIndexOutOfBoundsException: It occurs when we try to access an array element with an invalid index.
+
+ ** ArithmeticException: It is thrown when an arithmetic operation fails, such as division by zero.
