@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="769a38ec-2653-4e1a-af05-7c3ca9afb7ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training_JAVA_Course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,76 +38,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Abstract_main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Abstract_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayIndexOutOfBound_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conditional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dyanimc_binding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci_recurssion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci_series.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Finally_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Get_set_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Has_A_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface_main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Logical_error.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method_overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multilevel_cat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullPointer_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Number_format_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operaters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Paramaterisedconstructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Parent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion_part2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion_part3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recusrssion_part1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Single_main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Static_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_part1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Super_exapmle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Syntax_error.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throw_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throws_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Try_Catch_Exmaple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Try_catch_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.baby_dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.defaultconstructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.final_examples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hirerichal_main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.method_3_no_of_positivecount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.methods_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.patterns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.recursion_Exponent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.static_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.this_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.volume_sqaure.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/Desktop/java folder/Training_JAVA_Course/src/Main.java&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstract_main.executor": "Run",
+    "Application.Abstract_method.executor": "Run",
+    "Application.ArrayIndexOutOfBound_Exception.executor": "Run",
+    "Application.Array_1.executor": "Run",
+    "Application.Conditional.executor": "Run",
+    "Application.Constructor_overloading.executor": "Run",
+    "Application.Datatype.executor": "Run",
+    "Application.Dyanimc_binding.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Fibonacci_recurssion.executor": "Run",
+    "Application.Fibonacci_series.executor": "Run",
+    "Application.Finally_example.executor": "Run",
+    "Application.Get_set_methods.executor": "Run",
+    "Application.Has_A_Example.executor": "Run",
+    "Application.Interface_main.executor": "Run",
+    "Application.Logical_error.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Method_overloading.executor": "Run",
+    "Application.Multilevel_cat.executor": "Run",
+    "Application.NullPointer_exception.executor": "Run",
+    "Application.Number_format_exception.executor": "Run",
+    "Application.Operaters.executor": "Run",
+    "Application.Paramaterisedconstructor.executor": "Run",
+    "Application.Parent.executor": "Run",
+    "Application.Recursion_part2.executor": "Run",
+    "Application.Recursion_part3.executor": "Run",
+    "Application.Recusrssion_part1.executor": "Run",
+    "Application.Single_main.executor": "Run",
+    "Application.Static_method.executor": "Run",
+    "Application.String_part1.executor": "Run",
+    "Application.Super_exapmle.executor": "Run",
+    "Application.Syntax_error.executor": "Run",
+    "Application.Throw_example.executor": "Run",
+    "Application.Throws_example.executor": "Run",
+    "Application.Try_Catch_Exmaple.executor": "Run",
+    "Application.Try_catch_2.executor": "Run",
+    "Application.baby_dog.executor": "Run",
+    "Application.bank.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.defaultconstructor.executor": "Run",
+    "Application.dog.executor": "Run",
+    "Application.final_examples.executor": "Run",
+    "Application.hirerichal_main.executor": "Run",
+    "Application.loops.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.method_3_no_of_positivecount.executor": "Run",
+    "Application.methods.executor": "Run",
+    "Application.methods_2.executor": "Run",
+    "Application.patterns.executor": "Run",
+    "Application.recursion_Exponent.executor": "Run",
+    "Application.static_class.executor": "Run",
+    "Application.this_class.executor": "Run",
+    "Application.volume_sqaure.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/java folder/Training_JAVA_Course/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Desktop\java folder\Training_JAVA_Course\src\Inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Operaters">
+  <component name="RunManager">
     <configuration name="Operaters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operators.Operaters" />
       <module name="Training_JAVA_Course" />
