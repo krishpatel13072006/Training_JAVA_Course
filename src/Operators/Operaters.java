@@ -52,10 +52,10 @@ public class Operaters {
         System.out.println(n1<<=2);
         System.out.println();
         System.out.println("________________Ternary operators________________");
-        int s1=56;
-        int s2=23;
-        int s3=4;
-        int max=(s1>s2 && s1>s3)?s1:((s2>s3 && s2>s1 )?s2:s3);
+        int s1=57006;
+        int s2=23097;
+        int s3=4908;
+        int max=(s1>s2 &&  s1>s3)?s1:((s2>s3)?s2:s3);
         System.out.println(max);
         int min=(s1<s2)?s1:s2;
         System.out.println(min);

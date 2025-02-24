@@ -6,5 +6,6 @@ public class Has_A_Example {
     public static void main(String[] args) {
         Has_A_Example n=new Has_A_Example();
         int v=n.x.cube(2);
+        System.out.println(v);
     }
 }

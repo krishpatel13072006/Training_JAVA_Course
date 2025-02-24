@@ -1,5 +1,5 @@
 package Datatype;
-
+import java.util.Scanner;
 public class Datatype {
     public void abc(){
         int num=20;
@@ -7,6 +7,8 @@ public class Datatype {
     }
 
     public static void main(String[] args) {
+Datatype d=new Datatype();
+d.abc();
 
 
         //widening type casting
